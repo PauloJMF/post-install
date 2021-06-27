@@ -1,1 +1,1 @@
-# Post Installation Ubuntu Script
+# Post Installation Script
