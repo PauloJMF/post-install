@@ -8,6 +8,9 @@ sudo apt-get upgrade
 # Install git:
 sudo apt-get install -y git
 
+# Install snap
+sudo apt-get install snapd
+
 # Setting Github information
 git config --global user.name PauloMachado
 git config --global user.email pauloo.jmf@gmail.com
@@ -67,3 +70,6 @@ sudo snap install spotify
 
 # Installing Dbeaver
 sudo snap install dbeaver-ce
+
+# Installing PHPStorm
+sudo snap install phpstorm --classic
